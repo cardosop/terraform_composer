@@ -53,4 +53,3 @@ variable "sa_enable_impersonation" {
   type        = bool
   default     = false
 }
-#
